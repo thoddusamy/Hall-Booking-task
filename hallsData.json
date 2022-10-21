@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "63529a1bd74f8c99187c69cc"
+  },
+  "name": "Platinum",
+  "seats": 300,
+  "Air-conditioner": 5,
+  "Price-for-1hr": 5000,
+  "customersIds": [
+    {
+      "$oid": "63528efed74f8c99188c69c5"
+    },
+    {
+      "$oid": "63528efed74f8c99189c69c5"
+    },
+    {
+      "$oid": "63528efed74f8c99287c69c5"
+    }
+  ],
+  "isBooked": true
+},{
+  "_id": {
+    "$oid": "63529a1bd74f8c99187c69cd"
+  },
+  "name": "Gold",
+  "seats": 150,
+  "Air-conditioner": 3,
+  "Price-for-1hr": 3000,
+  "isBooked": true,
+  "customersIds": [
+    {
+      "$oid": "63528efed74f9c99187c79c4"
+    },
+    {
+      "$oid": "63528efed74f9c99187c79c5"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63529a1bd74f8c99187c69ce"
+  },
+  "name": "Silver",
+  "seats": 70,
+  "Air-conditioner": 2,
+  "Price-for-1hr": 2000,
+  "customersIds": [
+    {
+      "$oid": "63538efed74f8c99187c45f7"
+    }
+  ],
+  "isBooked": true
+},{
+  "_id": {
+    "$oid": "63529a1bd74f8c99187c69cf"
+  },
+  "name": "Bronze",
+  "seats": 50,
+  "Air-conditioner": 1,
+  "Price-for-1hr": 1000,
+  "isBooked": false,
+  "customersIds": [
+    ""
+  ]
+}]

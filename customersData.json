@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "63528efed74f8c99187c69c4"
+  },
+  "name": "customer1",
+  "contact": 1516551,
+  "Date": "21/10/2022",
+  "startTime": 0,
+  "endTime": 12,
+  "roomId": {
+    "$oid": "63528d7dd74f8c99187c69b7"
+  }
+},{
+  "_id": {
+    "$oid": "63528efed74f8c99187c69c5"
+  },
+  "name": "customer2",
+  "contact": 515151,
+  "Date": "21/10/2022",
+  "startTime": 12,
+  "endTime": 24,
+  "roomId": {
+    "$oid": "63528d7dd74f8c99187c69b7"
+  }
+},{
+  "_id": {
+    "$oid": "63528efed74f8c99187c69c6"
+  },
+  "name": "customer3",
+  "contact": 654589,
+  "Date": "22/10/2022",
+  "startTime": 5,
+  "endTime": 15,
+  "roomId": {
+    "$oid": "63528d7dd74f8c99187c69bc"
+  }
+},{
+  "_id": {
+    "$oid": "63528efed74f8c99187c69c7"
+  },
+  "name": "customer4",
+  "contact": 7898965,
+  "Date": "24/10/2022",
+  "startTime": 5,
+  "endTime": 15,
+  "roomId": {
+    "$oid": "63528d7dd74f8c99187c69ba"
+  }
+},{
+  "_id": {
+    "$oid": "63528efed74f8c99187c69c8"
+  },
+  "name": "customer5",
+  "contact": 7898965,
+  "Date": "24/10/2022",
+  "startTime": 5,
+  "endTime": 15,
+  "roomId": {
+    "$oid": "63528d7dd74f8c99187c69ba"
+  }
+},{
+  "_id": {
+    "$oid": "63528efed74f8c99187c69c9"
+  },
+  "name": "customer6",
+  "contact": 7898965,
+  "Date": "24/10/2022",
+  "startTime": 5,
+  "endTime": 15,
+  "roomId": {
+    "$oid": "63528d7dd74f8c99187c69b7"
+  }
+}]
